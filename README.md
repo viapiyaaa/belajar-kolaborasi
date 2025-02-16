@@ -1,3 +1,3 @@
 # Belajar Kolaborasi
-Belajar github sangat menyenangkan
-Belajarnya di Dicoding Academy
+Belajar github sangat menyenangkan<br>
+Belajarnya di Dicoding Academy💗
